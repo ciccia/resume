@@ -1,7 +1,6 @@
 Cristian Cialli
 ===============
 
-> [Download PDF](resume.pdf)  
 > [cristian.cialli@gmail.com](cristian.cialli@gmail.com)  
 > +39 3493247353
 
@@ -10,11 +9,8 @@ Cristian Cialli
 
 ---
 
-
 Web Developer
 -------------
-Da sempre un grande appassionato di teconologia, ...
-
 
 Esperienze professionali
 ------------------------
