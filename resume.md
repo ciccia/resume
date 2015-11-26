@@ -52,6 +52,7 @@ Competenze Informatiche
 * HTML5
 * CSS3
 * Sass
+* Less
 * Delphi (Object Pascal)
 * Java
 
@@ -60,14 +61,23 @@ Competenze Informatiche
 * JQuery
 * Node.js
 * React
+* React Native
 * Bootstrap
 * Foundation
 * Symfony
 * CodeIgniter
 * PHPUnit
 * Jasmine
+* Mocha
+
+#### Competenze
+* Agile Development
+* Lean Development
+* TDD
+* GOF Design Patterns
 
 #### Tools
+* Composer
 * Bower
 * Grunt
 * Gulp
@@ -80,11 +90,10 @@ Competenze Informatiche
 #### Versioning e CI
 * Git
 * Subversion
+* Bash Scripting
 * Jenkins
 
 #### Databases
 * MySql
 * MongoDB
 * Oracle
-
-

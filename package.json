@@ -1,0 +1,24 @@
+{
+  "name": "ciccia-resume",
+  "version": "0.0.1",
+  "description": "Resume (Curriculum Vitae) of Cristian Cialli aka Ciccia",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "npm install -g markdown-resume",
+    "make": "npm run html pdf",
+    "pdf": "md2resume --pdf README.md",
+    "html": "md2resume README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciccia/resume.git"
+  },
+  "author": "Cristian Cialli",
+  "license": "UNLICENSED",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/ciccia/resume/issues"
+  },
+  "homepage": "https://github.com/ciccia/resume#readme",
+  "devDependencies": {}
+}
