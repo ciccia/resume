@@ -58,10 +58,10 @@ Competenze Informatiche
 
 #### Framework e Librerie
 * AngularJS
-* JQuery
-* Node.js
 * React
 * React Native
+* Node.js
+* JQuery
 * Bootstrap
 * Foundation
 * Symfony
@@ -70,18 +70,15 @@ Competenze Informatiche
 * Jasmine
 * Mocha
 
-#### Competenze
-* Agile Development
-* Lean Development
-* TDD
-* GOF Design Patterns
-
 #### Tools
 * Composer
+* Npm
+* Webpack
+* Babel
 * Bower
 * Grunt
 * Gulp
-* Babel
+* Browserify
 * Docker
 * Ant
 * Karma
