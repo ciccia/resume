@@ -6,8 +6,8 @@
   "scripts": {
     "preinstall": "npm install -g markdown-resume",
     "make": "npm run html pdf",
-    "pdf": "md2resume --pdf README.md",
-    "html": "md2resume README.md"
+    "pdf": "md2resume --pdf resume.pdf",
+    "html": "md2resume resume.md"
   },
   "repository": {
     "type": "git",
